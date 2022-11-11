@@ -1,0 +1,23 @@
+.header {
+    grid-area: h;
+    background: #36b9ff;
+}
+.header img {
+    width: 110px;
+    float: left;
+}
+
+.loginBlock {
+    float: right;
+}
+.loginBlock a {
+    color: darkblue;
+}
+.avlink {
+    text-decoration: none;
+}
+
+.logotype{
+    width: 100px;
+    margin-left: 30px;
+}
